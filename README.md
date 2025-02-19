@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Mahajan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Full-Stack**
 
 - 👨‍💻 All of my projects are available at [https://vaibhav-portfolio-alpha.vercel.app](https://vaibhav-portfolio-alpha.vercel.app)
 
